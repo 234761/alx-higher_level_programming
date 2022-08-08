@@ -1,2 +1,2 @@
 #!/usr/bin/python3
- $PYCODE
+PYCODE='print(f"Best school: {88+10}")'
